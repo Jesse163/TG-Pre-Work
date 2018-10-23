@@ -1,0 +1,11 @@
+body {
+  background-color: hsl(240,100%,80%);
+}
+
+.midground {
+  background-color: hsl(225,100%,80%);
+}
+
+.foreground {
+  background-color: hsl(325,50%,50%);
+}

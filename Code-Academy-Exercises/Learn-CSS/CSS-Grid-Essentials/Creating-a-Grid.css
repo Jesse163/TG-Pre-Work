@@ -1,0 +1,12 @@
+.grid {
+  border: 2px blue solid;
+  width: 400px;
+  height: 500px;
+}
+
+.grid {
+  border: 2px blud solid;
+  width: 400px;
+  height: 500px;
+  display: grid;
+}

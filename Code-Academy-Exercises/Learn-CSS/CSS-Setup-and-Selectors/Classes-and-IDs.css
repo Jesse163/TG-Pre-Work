@@ -1,0 +1,39 @@
+p {
+  font-family: Arial;
+}
+
+h1 {
+  color: maroon;
+}
+
+.title {
+  color: teal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.publish-time {
+  color: grey;
+}
+
+#article-title {
+  font-family: cursive;
+  text-transform: capitalize;
+}
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>vacation world</title>
+  <link href="style.css" type="type/css" rel="stylesheet"
+<body>
+  <img src="https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/explorer.jpeg"/>
+  <h1 class="title uppercase" id="article-title">Top Vacation Spots</h1>
+  <h5>By: Stacy Pinkman</h5>
+  <h6 class="publish-time">Published: 2 Days Ago</h6>
+
+  </body>
+  </html>

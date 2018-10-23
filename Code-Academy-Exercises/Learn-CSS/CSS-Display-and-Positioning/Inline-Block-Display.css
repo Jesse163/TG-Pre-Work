@@ -1,0 +1,37 @@
+li {
+  color: #FFf;
+  font-family: 'oswald', sans-sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+li {
+  color: #FFF;
+  font-family: 'oswald', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 80px;
+}
+
+.welcome {
+  background-color: #DBE9EE;
+  box-sizing: border-box;
+  padding: 40px;
+  text-align: center;
+  width: 100%;
+  position: relative;
+  top: 200px;.wl
+}
+
+.welcome {
+  background-color: #DBE9EE;
+  box-sizing: border-box;
+  padding: 40px;
+  text-align: center;
+  width; 100%
+  position: relative;
+  top: 50px;
+}

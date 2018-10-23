@@ -1,0 +1,44 @@
+h5,
+p {
+  font-family: Georgia;
+}
+
+p {
+  font-family: Arial;
+}
+
+h1 {
+  color: maroon;
+}
+
+h2.destination {
+  font-family: cursive;
+}
+
+h5 {
+  color: rebeccapurple !important;
+}
+
+.title {
+  color: teal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.publish-time {
+  color: gray;
+}
+
+.cursive {
+  font-family: cursive;
+}
+
+.capitalize {
+  text-transform: capialize;
+}
+
+description h5 {
+  color: teal;
+}

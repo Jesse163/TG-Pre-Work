@@ -1,0 +1,17 @@
+#banner .content h1 {
+  position: relative;
+  top: 50px;
+  margin: 0 auto;
+}
+
+#banner .content h1 {
+  position: relative;
+  top: 50px;
+  margin: 0 auto;
+  height: 700px;
+  width: 400px;
+}
+
+.pull-quote {
+  width: 350px;
+}

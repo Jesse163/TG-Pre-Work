@@ -1,0 +1,26 @@
+h1 {
+  color: white;
+  font-size: 28px;
+}
+
+h1 {
+  color: white;
+  font-size: 28px;
+  font-family: Georgia;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 2.5;
+  font font-family: Georgia;
+}
+
+p {
+  margin: 16px 0;
+}
+
+p {
+  margin: 16px 0;
+  font-family: Helvetica;
+}

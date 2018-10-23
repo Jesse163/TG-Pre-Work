@@ -1,0 +1,41 @@
+!DOCTYPE html>
+<head>
+<style>
+P {
+  color: red;
+  font-size: 20px;
+}
+<title> Vacation World</title>
+</style>
+</head>
+
+<body>
+  <img src="https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/explorer.jpe"/>
+  <h1 class="title">Top Vacation Spots</h1>
+  <h5>By: Stacy Gray</h5>
+  <h6>Published September 24, 1993</h6>
+
+  <p style="font-family: Arial;"> The world is full of fascinating places.</p>
+
+  <h2 class="destination"> 1. Florence, Italy</h2>
+  <div class="description"> A city sized shrine to the renaissance, florence offers frescoes.<a href="http://travel.nationalgeographic.com/travel/city-guides/florence-italy/" target="_blank"> Learn More</a>
+  <h5>Top Attractions</h5>
+  <ul>
+    <li>Museums</li>
+    <li>Bike Tours</li>
+    <li>Historical Monuments</li>
+  </ul>
+  </div>
+
+  <h2 class="destination">Beijing, China</h2>
+  <div class="description">A city in the midst of reinventing itself and continuing to build on success of the 2008 Summer Olympics.
+  <a href="http://travel.nationalgeographic.com/travel/city-guides/beijing-china/" target="_blan">Learn More</a>
+  <h5>Top Attractions</h5>
+  <ul>
+    <li>Biking</li>
+    <li>Historical Sights</li>
+    <li>Resaurants and dining</li>
+  </ul>
+  </div>
+  </body>
+  </html>

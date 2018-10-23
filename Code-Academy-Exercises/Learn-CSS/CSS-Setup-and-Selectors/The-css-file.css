@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Vacation World</title>
+</head>
+
+<body>
+  <img src="https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/explorer.jpeg"/>
+  <h1 class="title">Top Vacation Spots</h1>
+  <h5>By: Stacy Pinkman</h5>
+  <h6>Published: September 25th, 1990</h6>
+
+  <p> The world is full of fascinating places. Planning the perfect vacatoin involves packing up, leaving home, and experiencing something new.</p>
+  <h2 class="destination">1. Florence, Italy</h2>
+  <div class="description"> A city-size shrine to the renissance, florence offers frescoes.<a href="http://travel.nationalgeographic.com/travel/city-guides/florence-italy/" target="_blank">Learn More</a>
+  <h5>Top Attractions</h5>
+  <ul>
+    <li>Muesums</li>
+    <li>Bike Tours</li>
+    <li>Historical Monuments</li>
+  </ul>
+  </div>
+
+  <h2 class="destination">2. Beijing, China</h2>
+  <div class="description"> A city in the midst of reinventing itself and continuing to build on the sucess of the 2008 summer olympics.
+  <a href="http://travel.nationalgeographic.com/travel/city-guides/beijing-china/" target="_blank">Learn More</a>.
+  <h5>Top Attractions</h5>
+  <ul>
+    <li>Biking</li>
+    <li>Historical Sites</li>
+    <li>Restuarants and Dining </li>
+  </ul>
+  </div>
+  </body>
+  </html>

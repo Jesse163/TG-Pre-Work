@@ -1,0 +1,20 @@
+.header {
+  font-family: "arial", sans-sans-serif;
+  font-size: 14px;
+  line-height: 1.25;
+  background-color: #fff;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.header {
+  font-family: "arial", sans-serif;
+  font-size: 14px;
+  line-height: 1.25;
+  background-color: #fff;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  font-weight: 900;
+}

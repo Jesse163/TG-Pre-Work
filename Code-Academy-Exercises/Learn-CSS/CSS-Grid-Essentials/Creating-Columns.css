@@ -1,0 +1,11 @@
+.grid {
+  border: 2px blue solid;
+  width: 400px;
+  height: 500px;
+  display: grid;
+}
+
+.grid {
+  border: 2px blue solid;
+  grid-template-columns: 100px, 50%, 200px;
+}

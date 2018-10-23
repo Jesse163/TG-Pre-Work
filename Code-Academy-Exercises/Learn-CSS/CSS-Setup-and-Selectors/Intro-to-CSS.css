@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link>
+href='https://fonts.googleapis.com/css?family=Roboto:400,300,500,100' rel='stylesheet' type='text/css'>
+<link href="style.css" type="text/css" rel="stylesheet">
+<div class="header">
+<div class="container"
+<h1>Innovation Cloud</h1>
+<p>Connect your ideas globally</p>
+<a class="btn" href='#'>Learn More</a>
+</div>
+</div>
+
+<div class='nav'>
+<div class='container'>
+<ul>
+<li>register</li>
+<li>schedule</li>
+<li>sponsors</li>
+<li>about</li>
+<li>contact</li>
+</ul>
+</div>
+</div>
+
+<div class='main'>
+<div class='container'>
+<img src="https://cdn.pixabay.com/photo/2018/06/30/09/31/background-image-3507320__340.jpg">
+<h2>The Innovation Cloud Conference</h2>
+<p>Connect with the best minds across a wide range of industries</p>
+<p>Hear industiry leaders talk</p>
+<p>Learn about the latest research</p>
+</div>
+</div>
+
+<div class='jumbotron'>
+<div class='container'>
+<h2>Stay connected</h2>
+<p>Recieve weekly insights</p>
+<a class="btn" href='#'>join</a>
+</div>
+</div>
+<p>&copy; Innovation Cloud</p>
+</div>
+</div>
+</body>
+</html>

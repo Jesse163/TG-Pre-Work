@@ -1,0 +1,20 @@
+<body>
+<div class="grid">
+<div class="box b">B</div>
+</div>
+</body>
+
+<body>
+<div class="grid">
+<div class="box b">B</div>
+<div class="box C">C</div>
+</div>
+</body>
+
+.b {
+  grid-area: 5 / 1 / span 2 / span 2;
+}
+
+.c {
+  grid-area: 6 / 8 / span 3 / span 1;
+}

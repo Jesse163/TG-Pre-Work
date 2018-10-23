@@ -1,0 +1,49 @@
+.navigaton li {
+  font-weight: 100;
+  letter-spacing: 2px;
+}
+
+.navigation li {
+  font-weight: 100;
+  letter-spacing: 2px;
+  padding: 20px;
+}
+
+.share a {
+  background: red;
+  border: 1px solid red;
+  border-radius: 3px;
+  color: white;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.share a {
+  padding: 14px;
+  background: red;
+  border: 1px solid red;
+  border-radius: 3px;
+  color: white;
+  display: inline-inline-block;
+  text-decoration: none;
+}
+
+h2 {
+border: 1px dotted red;
+color: red;
+font-size: 14px;
+line-height: 48px;
+text-align: center;
+}
+
+h2 {
+  padding-top: 20px;
+  padding bottom: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border: 1px dotted red;
+  color: red;
+  font-size: 14px;
+  line-height: 48px;
+  text-align: center;
+}

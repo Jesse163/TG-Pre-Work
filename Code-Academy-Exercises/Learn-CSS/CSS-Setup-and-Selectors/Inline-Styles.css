@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Vacation World</title>
+</head>
+
+<body>
+  <img src="https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/explorer.jpeg" />
+  <h1 class="title"> Top Vactiion Spots</h1>
+  <h5> By: Stacy Pinkman</h5>
+  <h6> Published: September 24th, 1998</h6>
+
+  <p style="color: red; font-size: 20px"> I am learing to code!!</p>
+
+  <p> The world is full of fascinating places</p>
+
+  <h2 class="destination"> 1. Florence, Italy</h2>
+  <div class="description"> Florence offers frescoes, sculptures, churches, and many things <a href="http://travel.nationalgeographic.com/travel/city-guides/florence-italy/" target="_blank">Learn More</a>.
+  <h5> Top Attractions</h5>
+  <ul>
+    <li>Museums</li>
+    <li>Bike Tours</li>
+    <li>Historical Monuments</li>
+  </ul>
+  </div>
+
+  <h2 class="destination"<2. Beijing, China</h2>
+
+  <p style="color: red; font-size: 20px;"> Coding is fun!</p>
+
+  <div class="description">A city in the midst of reinventing itsel and conintuing to build on the success of the 2008 summer.
+  <a href="http://travel.nationalgeographic.com/travel/city-guides/beijing-china/" target="_blank">Learn More</a>
+  <h5>Top Attractions</h5>
+  <ul>
+    <li>Biking</li>
+    <li>Historical Sites</li>
+    <li>Restaurants and Dining</li>
+    </ul>
+  </div>
+  </body>
+  </html>

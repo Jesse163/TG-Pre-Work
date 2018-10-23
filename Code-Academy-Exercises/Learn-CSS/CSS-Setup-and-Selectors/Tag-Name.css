@@ -1,0 +1,36 @@
+P {
+  font-family: Arial;
+}
+h1 {
+  color: maroon;
+}
+
+
+
+<!DOCTYPE html>
+<head>
+  <title>Vacation World</title>
+  <link href="style.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+  <img src="https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/explorer.jpeg"/>
+  <h1 class="title">Top Vacation Spots</h1>
+  <h5>By: Stacy Gray</h5>
+  <h6>Published: September 6th 2018</h6>
+
+  <p>The world is full of fascinating places. Planning the perfect vacation involves packing up, leaving home, and experiencing something new.</p>
+
+  <h2 class="destination">1. Florence, italy</h2>
+  <div class="description">A city size shrine to the renaissance, florence offers frescoes, sculptures, and churches.<a href="http://travel.nationalgeographic.com/travel/city-guides/florence-italy/" target="_blank">Learn More</a>
+  <h5>Top Attractions</h5>
+  <ul>
+    <li>Museums</li>
+    <li>Bike Tours</li?>
+    <li>Historical Monuments</li>
+  </ul>
+  </div>
+
+  <p>&mdash; Best of luck with your travels!</p>
+
+  </body>
+  </html>

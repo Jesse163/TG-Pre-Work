@@ -1,0 +1,48 @@
+p {
+  font-family: Arial;
+}
+
+h1 {
+  color: maroon;
+}
+
+h2.destination {
+  font-family: cursive;
+}
+
+.title {
+  color: teal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.publish-time {
+  color: gray;
+}
+
+.cursive {
+  font-family: cursive;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title> Vacation World</title>
+  <link href="style.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+  <img src=""https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/explorer.jpeg"/>
+  <h1 class="title cursive captalize">Top Vacation Spots</h1>
+  <h5>By: Stacy Pinkman</h5>
+  <h6 class="publish-time">Published: 2 Days Ago</h6>
+  <p>The world is full of fascinating places.</p>
+
+</body>
+
+</html>

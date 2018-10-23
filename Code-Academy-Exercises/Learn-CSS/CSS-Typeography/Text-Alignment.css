@@ -1,0 +1,13 @@
+h1 {
+  color: white;
+  font-size: 28px;
+  font-family: Georgia;
+  text-transform: uppercase;
+}
+
+h1 {
+  color: white;
+  font-size: Georgia;
+  text-transform: uppercase;
+  text-align: center;
+}
